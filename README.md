@@ -5,7 +5,7 @@ This system is used to help the visually impaired to have access to the most imp
 
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
 
-Fetaures which make "Anuj" unique: The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
+Fetaures which make "satvik" unique: The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
 
 The system performs tasks based on the input (in form of speech) given by the user and responds back as speech.
 
